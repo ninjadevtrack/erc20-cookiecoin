@@ -8,7 +8,7 @@
         "test": "truffle test"
     },
     "devDependencies": {
-        "@openzeppelin/contracts": "^3.4.0",
+        "@openzeppelin/contracts": "^4.9.6",
         "ganache-cli": "^6.12.2",
         "truffle": "^5.1.67"
     }
